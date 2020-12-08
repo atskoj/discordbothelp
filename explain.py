@@ -22,4 +22,4 @@ async def on_message(message): #whenever a message is recieved, it takes message
             await message.channel.send("Hi there!")
 
 
-client.run("NzM4OTE2NTQxMDM4NDYwOTc5.XyS3pw.BllY8tM_AvjE8JfZqLCZBI8rzRQ") #this actually runs the bot, get a token from https://discord.com/developers/applications, make an application and then make a bot in that application. Remember to add the bot to a server you own :)
+client.run("INSERT DISCORD BOT TOKEN HERE") #this actually runs the bot, get a token from https://discord.com/developers/applications, make an application and then make a bot in that application. Remember to add the bot to a server you own :)
